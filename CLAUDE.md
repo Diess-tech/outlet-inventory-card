@@ -29,6 +29,10 @@ Counts power strips / smart plugs / multi-plugs / adapters by TYPE and shows wha
   Owner creates the release by hand (Claude cannot create tags). After a release, in HACS: ⋮ > Update information.
 
 ## Commits
-- Owner does not want Claude shown as contributor: do NOT add `Co-Authored-By` or `Claude-Session` trailers,
-  and commit with the owner's identity (`Davide Sanna <Diess-tech@users.noreply.github.com>`).
+- Claude is shown as a contributor (owner's choice, 17 Nov 2026: "no merits that aren't mine" works both ways, the work
+  Claude does is credited). Commit with the owner's identity (`Davide Sanna <Diess-tech@users.noreply.github.com>`) and end
+  every commit message with this line, which makes GitHub list Claude among the contributors:
+  `Co-Authored-By: Claude <noreply@anthropic.com>`
+  Do NOT add the `Claude-Session` link: this repo is public and the link is useless to others.
+- Earlier commits (up to 17 Nov 2026) have no trailer, except the first two; they are not rewritten.
 - Donation links: PayPal `paypal.me/diesstech`, Ko-fi `ko-fi.com/diesstech`, Buy Me a Coffee `buymeacoffee.com/diesstech` (in `.github/FUNDING.yml` and README).
