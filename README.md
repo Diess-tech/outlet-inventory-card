@@ -1,5 +1,11 @@
 # Outlet Inventory Card
 
+<p align="center">
+  <a href="https://paypal.me/diesstech"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
+  <a href="https://buymeacoffee.com/diesstech"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"></a>
+  <a href="https://ko-fi.com/diesstech"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+</p>
+
 A Home Assistant dashboard card to **count the power strips, smart plugs, multi-plugs and adapters you own** and see at a glance what is free.
 
 > "OK, I have a 3 m power strip with 6 sockets free, a T adapter, and a Zigbee Schuko plug."
@@ -28,14 +34,6 @@ Click the button above, or do it by hand:
 ### Manual
 1. Copy `outlet-inventory-card.js` to `/config/www/`.
 2. Settings → Dashboards → ⋮ → *Resources* → add `/local/outlet-inventory-card.js` as **JavaScript module**.
-
-## Support
-
-If this card is useful to you, you can support its development:
-
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?logo=paypal&logoColor=white)](https://paypal.me/diesstech)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/diesstech)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/diesstech)
 
 ## Setup
 

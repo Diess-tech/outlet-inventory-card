@@ -8,7 +8,7 @@
  * A completed item = no piece free.
  * License: MIT
  */
-const OIC_VERSION = "0.1.0";
+const OIC_VERSION = "0.1.1";
 
 const I18N = {
   it: {
