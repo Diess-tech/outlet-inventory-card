@@ -1,5 +1,14 @@
 # Outlet Inventory Card
 
+[![hacs](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Diess-tech&repository=outlet-inventory-card&category=plugin)
+[![release](https://img.shields.io/github/v/release/Diess-tech/outlet-inventory-card)](https://github.com/Diess-tech/outlet-inventory-card/releases)
+[![downloads](https://img.shields.io/github/downloads/Diess-tech/outlet-inventory-card/total)](https://github.com/Diess-tech/outlet-inventory-card/releases)
+[![license](https://img.shields.io/github/license/Diess-tech/outlet-inventory-card)](LICENSE)
+
+<a href="https://www.buymeacoffee.com/diesstech"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=diesstech&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" height="50"></a>
+<a href="https://ko-fi.com/diesstech"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Support me on Ko-fi" height="50"></a>
+<a href="https://paypal.me/diesstech"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate with PayPal" height="50"></a>
+
 A Home Assistant dashboard card to **count the power strips, smart plugs, multi-plugs and adapters you own** and see at a glance what is free.
 
 > "OK, I have a 3 m power strip with 6 sockets free, a T adapter, and a Zigbee Schuko plug."
@@ -28,14 +37,6 @@ Click the button above, or do it by hand:
 ### Manual
 1. Copy `outlet-inventory-card.js` to `/config/www/`.
 2. Settings → Dashboards → ⋮ → *Resources* → add `/local/outlet-inventory-card.js` as **JavaScript module**.
-
-## Support
-
-If this card is useful to you, you can support its development:
-
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?logo=paypal&logoColor=white)](https://paypal.me/diesstech)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/diesstech)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/diesstech)
 
 ## Setup
 
