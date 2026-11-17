@@ -5,9 +5,9 @@
 [![downloads](https://img.shields.io/github/downloads/Diess-tech/outlet-inventory-card/total)](https://github.com/Diess-tech/outlet-inventory-card/releases)
 [![license](https://img.shields.io/github/license/Diess-tech/outlet-inventory-card)](LICENSE)
 
-<a href="https://buymeacoffee.com/diesstech"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="50"></a>
-<a href="https://ko-fi.com/diesstech"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="50"></a>
-<a href="https://paypal.me/diesstech"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate with PayPal" height="50"></a>
+<a href="https://buymeacoffee.com/diesstech"><img src="https://raw.githubusercontent.com/Diess-tech/outlet-inventory-card/main/assets/donate-buymeacoffee.svg" alt="Buy me a coffee" width="220" height="50"></a>
+<a href="https://ko-fi.com/diesstech"><img src="https://raw.githubusercontent.com/Diess-tech/outlet-inventory-card/main/assets/donate-kofi.svg" alt="Support me on Ko-fi" width="220" height="50"></a>
+<a href="https://paypal.me/diesstech"><img src="https://raw.githubusercontent.com/Diess-tech/outlet-inventory-card/main/assets/donate-paypal.svg" alt="Donate with PayPal" width="220" height="50"></a>
 
 A Home Assistant dashboard card to **count the power strips, smart plugs, multi-plugs and adapters you own** and see at a glance what is free.
 
