@@ -17,6 +17,11 @@ A Home Assistant dashboard card to **count the power strips, smart plugs, multi-
 ## Installation
 
 ### HACS (custom repository)
+
+[![Open your Home Assistant instance and open this repository in HACS.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Diess-tech&repository=outlet-inventory-card&category=plugin)
+
+Click the button above, or do it by hand:
+
 1. HACS → ⋮ → *Custom repositories* → add `https://github.com/Diess-tech/outlet-inventory-card`, category **Dashboard**.
 2. Install **Outlet Inventory Card**, then reload the browser.
 
