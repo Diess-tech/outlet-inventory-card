@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Outlet Inventory Card">
+  <rect width="512" height="512" rx="112" fill="#2b2b2b"/>
+  <circle cx="256" cy="256" r="168" fill="#e0b030"/>
+  <circle cx="204" cy="256" r="24" fill="#2b2b2b"/>
+  <circle cx="308" cy="256" r="24" fill="#2b2b2b"/>
+  <rect x="236" y="120" width="40" height="20" rx="10" fill="#2b2b2b"/>
+  <rect x="236" y="372" width="40" height="20" rx="10" fill="#2b2b2b"/>
+</svg>

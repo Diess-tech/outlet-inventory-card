@@ -1,5 +1,7 @@
 # Outlet Inventory Card
 
+<p align="center"><img src="https://raw.githubusercontent.com/Diess-tech/outlet-inventory-card/main/assets/logo.png" alt="Outlet Inventory Card logo" width="128" height="128"></p>
+
 [![hacs](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Diess-tech&repository=outlet-inventory-card&category=plugin)
 [![release](https://img.shields.io/github/v/release/Diess-tech/outlet-inventory-card)](https://github.com/Diess-tech/outlet-inventory-card/releases)
 [![downloads](https://img.shields.io/github/downloads/Diess-tech/outlet-inventory-card/total)](https://github.com/Diess-tech/outlet-inventory-card/releases)
