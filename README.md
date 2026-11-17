@@ -29,6 +29,13 @@ Click the button above, or do it by hand:
 1. Copy `outlet-inventory-card.js` to `/config/www/`.
 2. Settings → Dashboards → ⋮ → *Resources* → add `/local/outlet-inventory-card.js` as **JavaScript module**.
 
+## Support
+
+If this card is useful to you, you can support its development:
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?logo=paypal&logoColor=white)](https://paypal.me/diesstech)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/diesstech)
+
 ## Setup
 
 1. Create one To-do list per category: Settings → Devices & services → *Add integration* → **Local To-do** (e.g. "Smart plugs", "Power strips", "Adapters").

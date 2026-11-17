@@ -24,3 +24,8 @@ Counts power strips / smart plugs / multi-plugs / adapters by TYPE and shows wha
 ## Releasing
 - Bump `OIC_VERSION` in the JS, commit, tag `vX.Y.Z`, create a GitHub release (HACS reads releases).
 - Keep `hacs.json` filename in sync with the JS file name.
+
+## Commits
+- Owner does not want Claude shown as contributor: do NOT add `Co-Authored-By` or `Claude-Session` trailers,
+  and commit with the owner's identity (`Davide Sanna <Diess-tech@users.noreply.github.com>`).
+- Donation links: PayPal `paypal.me/diesstech`, Ko-fi `ko-fi.com/diesstech` (in `.github/FUNDING.yml` and README). Buy Me a Coffee not created yet.
